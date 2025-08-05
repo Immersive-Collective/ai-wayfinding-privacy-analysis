@@ -137,7 +137,3 @@ This repository presents a technical, constructive analysis and critique of priv
 
 This repository is a **critical and constructive review** of privacy and security risks in emerging AI-based wayfinding companions. It is intended for researchers, developers, and privacy professionals seeking to evaluate, improve, or regulate such technologies.
 No endorsement or association with the original products or companies is implied.
-
----
-
-Would you like a LICENSE or CONTRIBUTING.md draft for this repo?
